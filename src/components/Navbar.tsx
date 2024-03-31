@@ -1,11 +1,7 @@
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
-  return (
-    <Link to="/">
-      <h1>Adam Grabherr</h1>
-    </Link>
-  );
+  return <Link to="/">gr4bherr</Link>;
 };
 
 export default Navbar;
